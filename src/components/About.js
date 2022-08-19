@@ -42,7 +42,7 @@ export default function About(props) {
                         <div className="accordion-body" style={myStyle}>
                             MyTextEditor gives you a way to analyze your text
                             quickly and efficiently. Be it word count, character
-                            count or
+                            count and calculate time for read texts.
                         </div>
                     </div>
                 </div>
