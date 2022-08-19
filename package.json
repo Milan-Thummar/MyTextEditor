@@ -1,6 +1,6 @@
 {
-  "homepage": "https://MilanThummar.github.io/TextUtils-React-master",
-  "name": "textutils",
+  "homepage": "https://MilanThummar.github.io/MyTextEditor",
+  "name": "mytexteditor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
